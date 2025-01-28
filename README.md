@@ -8,9 +8,9 @@
 
 <p align="left">
 👨‍💻 Développeur depuis 2 ans, passionné par le code et l'apprentissage continu.<br>
-🚀 Actuellement, je travaille sur un projet personnel.<br>
+🚀 Actuellement, je travaille sur un projet personnel ainsi que mon portfolio.<br>
 🎯 Objectif : Devenir un développeur confirmé en maîtrisant un maximum de langages.<br>
-🎮 Fan de jeux vidéo et d'animés, toujours à la recherche de nouvelles inspirations !<br>
+🎮 Fan de jeux vidéo et de sport, toujours à la recherche de nouvelles inspirations !<br>
 </p>
 
 ###
