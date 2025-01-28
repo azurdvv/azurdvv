@@ -2,11 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bonjour,+je+suis+Arthur;Un+développeur+junior+passionné&center=true&width=500)](https://git.io/typing-svg)
 
-<h2 align="left">About me</h2>
+<h2 align="left">À propos de moi</h2>
 
 ###
 
-<p align="left">✨ Développeur depuis peu<br>📚 Etudiant en BTS SIO <br>🎯 Goals: Apprendre le plus de langages possibles<br>🎲 Actuellement sur un projet de gestion</p>
+<p align="left">
+👨‍💻 Développeur depuis 2 ans, passionné par le code et l'apprentissage continu.<br>
+🚀 Actuellement, je travaille sur un projet personnel.<br>
+🎯 Objectif : Devenir un développeur confirmé en maîtrisant un maximum de langages.<br>
+🎮 Fan de jeux vidéo et d'animés, toujours à la recherche de nouvelles inspirations !<br>
+</p>
 
 ###
 
